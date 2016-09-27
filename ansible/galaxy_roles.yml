@@ -1,0 +1,4 @@
+- src: https://github.com/roddin20/ansible
+  name: ansible
+  version: master
+  scm: git

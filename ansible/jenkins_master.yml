@@ -1,0 +1,5 @@
+- hosts: tag_Role_jenkins_master
+  roles:
+    - ansible/yum
+    - ansible/java
+    - ansible/jenkins
